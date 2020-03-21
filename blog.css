@@ -1,0 +1,66 @@
+body{
+    height: 100%;
+}
+.arow{
+    height: 13%;
+    /* border: 2px solid black; */
+    position: sticky;
+}
+.food {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+.img{
+    /* border: 2px solid black; */
+    padding-top: 20px;
+    /* border: 2px solid black; */
+    padding-bottom: 10px;
+}
+.text{
+    font-size: 120%;
+    font-family: fantasy;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.cheftext{
+    text-align: center;
+    font-size: 170%;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    /* padding-left: 400px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.chef{
+    /* padding-left: 200px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+.adiv{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    height: 70px;
+}
+.bdiv{
+    text-align: center;
+    height: 70px;
+}
+.cdiv{
+    text-align: center;
+    padding-bottom: 100px;
+    
+}
+
+
+
+
+
+
